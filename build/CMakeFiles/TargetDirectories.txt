@@ -1,0 +1,4 @@
+C:/DGTEC/C++ Task Schudeler/build/CMakeFiles/sqlite3.dir
+C:/DGTEC/C++ Task Schudeler/build/CMakeFiles/job_scheduler.dir
+C:/DGTEC/C++ Task Schudeler/build/CMakeFiles/ALL_BUILD.dir
+C:/DGTEC/C++ Task Schudeler/build/CMakeFiles/ZERO_CHECK.dir

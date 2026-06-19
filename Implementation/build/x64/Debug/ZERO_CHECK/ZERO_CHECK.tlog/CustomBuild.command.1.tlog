@@ -1,0 +1,10 @@
+^C:\DGTEC\C++ TASK SCHUDELER\IMPLEMENTATION\BUILD\CMAKEFILES\E2372420F8F2B1F9BCE9DF7CA2547548\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/DGTEC/C++ Task Schudeler/Implementation" "-BC:/DGTEC/C++ Task Schudeler/Implementation/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/DGTEC/C++ Task Schudeler/Implementation/build/job_scheduler.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
